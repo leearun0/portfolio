@@ -1,0 +1,14 @@
+{
+  "name": "Arun Krishnan - Data Engineer Portfolio",
+  "short_name": "AK Portfolio",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4a90e2",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
